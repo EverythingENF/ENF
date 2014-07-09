@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeENF", "MakeENF\MakeENF.csproj", "{8878A762-F9F8-4E84-8CE0-BEE7658D6ABB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENF.Core", "ENF.Core\ENF.Core.csproj", "{9032FE1B-82C4-4C45-A463-1766C3A851AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{8878A762-F9F8-4E84-8CE0-BEE7658D6ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8878A762-F9F8-4E84-8CE0-BEE7658D6ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8878A762-F9F8-4E84-8CE0-BEE7658D6ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9032FE1B-82C4-4C45-A463-1766C3A851AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9032FE1B-82C4-4C45-A463-1766C3A851AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9032FE1B-82C4-4C45-A463-1766C3A851AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9032FE1B-82C4-4C45-A463-1766C3A851AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
